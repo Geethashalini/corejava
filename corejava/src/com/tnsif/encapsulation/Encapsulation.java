@@ -8,6 +8,7 @@ public class Encapsulation {
 	void show ()
 	{
 		System.out.println("serial number"+serialNum+"\t name"+name+ "\t age:"+ age);
+		System.out.println();
 	}
 
 	@Override
