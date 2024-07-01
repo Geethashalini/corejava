@@ -17,7 +17,7 @@ public class Myclass {
 		super();
 		System.out.println("----------default constructor-----------");
 	}
-	static final void display() {
+	static  void display() {
 		System.out.println("----------static method----------");
 		System.out.println("serial mumber is "+srNo++);
 		
