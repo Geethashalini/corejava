@@ -2,7 +2,7 @@ package com.tnsif.abstractprgms;
 
 import java.util.Scanner;
 
-public class Demo {
+public final class Demo {
 	public static void main(String [] args) {
 		Scanner sc=new Scanner (System.in);
 		System.out.println("enter salary of akash");
