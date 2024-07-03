@@ -8,5 +8,4 @@ public class Demo {
 		ob.serviceCharge();
 		ob.thankyou();
 	}
-
 }
